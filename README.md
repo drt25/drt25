@@ -1,8 +1,13 @@
-- 👋 Hi, I’m Dharma Raj Thanait
-- 👀 I’m interested in Software Development.
-- 🌱 I’m currently learning Spring Boot.
+# 👋 Hi, I'm a Java Backend Developer
 
-<!---
-drt25/drt25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎯 4+ years of experience in **Java EE** and **Spring Boot**, building secure and scalable **fintech** applications.
+
+🔧 Skilled in:
+- Microservices & REST APIs  
+- PostgreSQL, MySQL  
+- JMS, ActiveMQ  
+- Docker, CI/CD, Git
+
+🚀 Passionate about clean code, performance, and backend architecture.
+
+📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/dharma-raj-thanait/) | [Email](mailto:dharmarajthanait25@gmail.com)

@@ -1,6 +1,6 @@
 # 👋 Hi, I'm a Java Backend Developer
 
-🎯 4+ years of experience in **Java EE** and **Spring Boot**, building secure and scalable **fintech** applications.
+🎯 5+ years of experience in **Java EE** and **Spring Boot**, building secure and scalable **fintech** applications.
 
 🔧 Skilled in:
 - Microservices & REST APIs  
